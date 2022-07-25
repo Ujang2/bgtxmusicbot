@@ -43,6 +43,11 @@
             "required": true,
             "value": "adibikashbot"
         },
+        "MONGODB_URL": {
+           "description": "MONGODP URL",
+           "required": true,
+           "value":""
+        },
         "DURATION_LIMIT": {
             "description": "𝑺𝒆𝒕 𝑴𝒂𝒙𝒊𝒎𝒖𝒎 𝑴𝒖𝒔𝒊𝒄 𝑫𝒖𝒓𝒂𝒕𝒊𝒐𝒏 𝑳𝒊𝒎𝒊𝒕 (𝑴𝒊𝒏𝒖𝒕𝒆𝒔) 𝒀𝒐𝒖 𝑾𝒂𝒏𝒕",
             "required": true,
